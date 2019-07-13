@@ -1,0 +1,21 @@
+{
+  "name": "mern-graphql-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Igor Melo",
+  "dependencies": {
+    "apollo-server": "^2.6.9",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^14.4.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
