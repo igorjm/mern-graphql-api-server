@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server": "node index",
-    "start": "nodemon index"
+    "server": "node src/index",
+    "start": "nodemon src/index",
+    "test": "node src/tests/hello.test.js"
   },
   "keywords": [],
   "author": "Igor Melo",
   "dependencies": {
     "apollo-server": "^2.6.9",
+    "assert": "^2.0.0",
     "bcryptjs": "^2.4.3",
     "graphql": "^14.4.2",
     "jsonwebtoken": "^8.5.1",
