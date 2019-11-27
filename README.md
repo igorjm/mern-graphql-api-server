@@ -68,3 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * This project is inspired by the [Classed Youtube Channel](https://www.youtube.com/channel/UC2-slOJImuSc20Drbf88qvg/featured) Playlist of Graphql and MERN videos
 * [GraphQL Server Playlist](https://www.youtube.com/playlist?list=PLMhAeHCz8S3_CTiWMQhL6YxX7vZ7z84Zo)
 * [Front-end Playlist](https://www.youtube.com/playlist?list=PLMhAeHCz8S3_pgb-j51QnCEhXNj5oyl8n)
+
+## This application is deployed in
+
+https://fast-tundra-79317.herokuapp.com
